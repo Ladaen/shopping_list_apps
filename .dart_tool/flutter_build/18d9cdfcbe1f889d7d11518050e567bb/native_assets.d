@@ -1,0 +1,1 @@
+ C:\\Daeng\\Kuliah\\SourceCode\\Flutter\\shopping_list_apps_tugas\\.dart_tool\\flutter_build\\18d9cdfcbe1f889d7d11518050e567bb\\native_assets.yaml: 
